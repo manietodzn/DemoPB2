@@ -1,0 +1,25 @@
+﻿$PBExportHeader$p_salesdemo_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:salesdemo.exe,,0,1,1
+CMP:1,0,0,2,0,0
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:salesdemo.pbl,,1
+PBD:common.pbl,,1
+PBD:person.pbl,,1
+PBD:product.pbl,,1
+PBD:salesorder.pbl,,1
+PBD:webapi.pbl,,1
+PBD:report.pbl,,1
+PBD:librerianueva.pbl,,1
+PBD:libreriatest.pbl,,1
+PBD:segundalib.pbl,,1
+PBD:terceralib.pbl,,1
+
+ 
