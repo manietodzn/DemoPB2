@@ -1,0 +1,43 @@
+
+
+ASIGNACIONES PARA PROGRAMADORES : rama   feature/sales-XXX
+=============================================================
+desarrollo02	Modificar             salesdemo.pbl  w_main
+desarrollo10	Modificar             salesdemo.pbl  w_demogit
+desarrollo21	Modificar             salesdemo.pbl  w_progressbar
+desarrollo24	Modificar             salesdemo.pbl  w_setup
+desarrollo25	Modificar             common.pbl  w_base
+desarrollo29	Modificar             person.pbl  w_address
+desarrollo30	Modificar             person.pbl  w_person
+desarrollo31	Modificar             product.pbl  w_product
+desarrollo32	Modificar             salesorder.pbl  w_salesorder
+desarrollo33	Modificar             Crear objeto en report.pbl
+desarrollo35	Modificar             Crear objeto en salesdemo.pbl
+desarrollo36	Modificar            Crear objeto en salesdemo.pbl
+desarrollo37	Modificar             Crear objeto en common.pbl
+desarrollo38	Modificar             Crear objeto en common.pbl
+desarrollo39	Crear	              crear objeto en person.pbl
+adriana.camacho	Crear	              crear objeto en person.pbl
+antonio.pica	Crear                 crear objeto en product.pbl
+victor.suastegui  Crear                 crear objeto en product.pbl
+
+
+
+ASIGNACIONES PARA SOPORTE : rama 	hotfix/planti-XXX
+==============================================================
+Desarrollo29	Modificar             report.pbl  w_salesreport 
+Desarrollo32	Modificar             report.pbl  cambiar propiedad en u_salesreport
+
+
+
+IMPLEMENTACION  (Integradores)
+=======================================
+Desarrollo13		Revisar y autorizar pull request
+
+
+INSTRUCCIÓN PARA IGNORAR LOS *.pbl
+==========================================
+-	Agregar en el .gitignore   *.pbl 
+-	Ejecutar en consola la instrucción
+
+    	git update-index --skip-worktree *.pbl	
